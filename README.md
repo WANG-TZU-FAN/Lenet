@@ -1,4 +1,4 @@
-# Lenet_5 Implement
+# Lenet_5
 
 ## 概述
 _這份 Github 是紀錄從零開始學習關於 Lenet 的歷程_
