@@ -1,27 +1,27 @@
 # Lenet_5
 
 ## 概述
-_這份 Github 是紀錄從零開始學習關於 Lenet 的歷程_
+這份 Github 是紀錄從零開始學習關於 Lenet 的歷程
 
-_從 Python 的下載到 Code 的硬體化，希望可以把所有學到的東西記錄下來_
+從 Python 的下載到 Code 的硬體化，希望可以把所有學到的東西記錄下來
 
 ## 什麼是 Lenet
-_Lenet 是一個已經訓練好的神經網絡模型_
+Lenet 是一個已經訓練好的神經網絡模型
 
-_是用來辨識手寫數字的 CNN (convolutional neural network)_
+是用來辨識手寫數字的 _CNN (convolutional neural network)_
 
-_有 7 層的 Hidden Layers，下圖則是他的主要架構_
+有 7 層的 Hidden Layers，下圖則是他的主要架構
 
 ![](https://github.com/WANG-TZU-FAN/Lenet/blob/main/Images/CNN.png?raw=true)
 
 ## Python 的下載
-_我在實作的部分，使用的是 Anaconda Python_
+我在實作的部分，使用的是 Anaconda Python
 
-_下載網址： https://www.anaconda.com/download/ _
+下載網址： https://www.anaconda.com/download/ 
 
-_使用版本為Python 3.8_
+使用版本為Python 3.8
 
 ## 設定環境，安裝Jupyter
-_因為之後會需要用到 jupyter，因此要先在 Anaconda 設定一個環境，並安裝 jupyter_
+因為之後會需要用到 jupyter，因此要先在 Anaconda 設定一個環境，並安裝 jupyter
 
 
